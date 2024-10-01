@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shital Pawar 
--  DOB 01/01/1999
+-  DOB 01/01/1996
 -  I'm living in taiwan 
 -  I’m currently learning Mandarin language 
 -  I’m looking for job QA Engineer 
