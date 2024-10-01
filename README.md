@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SHITAL2022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shital Pawar 
+-  DOB 01/01/1999
+-  I'm living in taiwan 
+-  I’m currently learning Mandarin language 
+-  I’m looking for job QA Engineer 
+-  p.shitalpawar@gmail.com
 
 <!---
 SHITAL2022/SHITAL2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
